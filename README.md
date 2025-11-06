@@ -1,5 +1,5 @@
 
-# Parametric Curve Fitting — Assignment Submission
+# Parametric Curve Fitting(Assignment Submission)
 
 ## Final Parameters
 - theta (radians): **0.490777338** (~28.12 degrees)
